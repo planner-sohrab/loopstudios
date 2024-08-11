@@ -639,12 +639,12 @@ h5 {
   width: 100%;
 }
 
-.max-w-lg {
-  max-width: 32rem;
-}
-
 .max-w-6xl {
   max-width: 72rem;
+}
+
+.max-w-lg {
+  max-width: 32rem;
 }
 
 .max-w-md {
@@ -736,10 +736,6 @@ h5 {
 
 .pr-0 {
   padding-right: 0px;
-}
-
-.pl-24 {
-  padding-left: 6rem;
 }
 
 .text-center {
@@ -1040,14 +1036,14 @@ h5 {
     padding: 2.5rem;
   }
 
-  .md\:py-20 {
-    padding-top: 5rem;
-    padding-bottom: 5rem;
-  }
-
   .md\:px-0 {
     padding-left: 0px;
     padding-right: 0px;
+  }
+
+  .md\:py-20 {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
   }
 
   .md\:pl-20 {
