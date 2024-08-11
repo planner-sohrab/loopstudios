@@ -7,4 +7,3 @@ function navToggle() {
   menu.classList.toggle("flex");
   menu.classList.toggle("hidden");
 }
-console.log("Hello");
